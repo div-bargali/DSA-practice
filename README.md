@@ -35,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/div-bargali/DSA-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/div-bargali/DSA-problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/div-bargali/DSA-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/div-bargali/DSA-problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
